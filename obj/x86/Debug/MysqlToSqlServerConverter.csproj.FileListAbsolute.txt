@@ -1,0 +1,13 @@
+C:\Project\MySQLtoSQLSERVERconverter\MysqlToSqlServerConverter\MysqlToSqlServerConverter\bin\Debug\MysqlToSqlServerConverter.exe
+C:\Project\MySQLtoSQLSERVERconverter\MysqlToSqlServerConverter\MysqlToSqlServerConverter\bin\Debug\MysqlToSqlServerConverter.pdb
+C:\Project\MySQLtoSQLSERVERconverter\MysqlToSqlServerConverter\MysqlToSqlServerConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project\MySQLtoSQLSERVERconverter\MysqlToSqlServerConverter\MysqlToSqlServerConverter\obj\x86\Debug\MysqlToSqlServerConverter.Properties.Resources.resources
+C:\Project\MySQLtoSQLSERVERconverter\MysqlToSqlServerConverter\MysqlToSqlServerConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Project\MySQLtoSQLSERVERconverter\MysqlToSqlServerConverter\MysqlToSqlServerConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Project\MySQLtoSQLSERVERconverter\MysqlToSqlServerConverter\MysqlToSqlServerConverter\obj\x86\Debug\MysqlToSqlServerConverter.exe
+C:\Project\MySQLtoSQLSERVERconverter\MysqlToSqlServerConverter\MysqlToSqlServerConverter\obj\x86\Debug\MysqlToSqlServerConverter.pdb
+C:\Project\MySQLtoSQLSERVERconverter\MysqlToSqlServerConverter\MysqlToSqlServerConverter\obj\x86\Debug\MysqlToSqlServerConverter.Main.resources
+C:\Project\MySQLtoSQLSERVERconverter\MysqlToSqlServerConverter\MysqlToSqlServerConverter\bin\Debug\MysqlToSqlServerConverter.exe.config
+D:\ProjectSmall\MysqlToSqlServerConverter\bin\Debug\MysqlToSqlServerConverter.exe.config
+D:\ProjectSmall\MysqlToSqlServerConverter\obj\x86\Debug\MysqlToSqlServerConverter.exe
+D:\ProjectSmall\MysqlToSqlServerConverter\obj\x86\Debug\MysqlToSqlServerConverter.pdb
