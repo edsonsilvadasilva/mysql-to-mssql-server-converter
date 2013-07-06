@@ -47,3 +47,9 @@ Fill up the Server Name, Authentication, User name and password. Then press Conn
 <br />4.Press Start Button to begin the migration process. The process will convert the table structure, primary keys, foreign keys , indexes , default values and identities.
 
 http://convertmysqltosqlserver.blogspot.com/
+<br />
+<br />
+<br />
+<br />
+^Authored by:^
+^Jose Levi J. Diola^
