@@ -32,18 +32,15 @@ The setup of this connector is pretty simple:
 <br />3.After that, a MySQL connection configuration dialog will appear. Add your MySQL database account information in it, preferably the "root" account which has full access to your databases in MySQL. In this case, my database is called "tigerdb". Do not change the port to anything other than 3306, unless during yourMySQL server installation, you have defined something else.
 <br />3.Press the "Test" button to ensure your connection settings are set properly and then the "OK" button when you're done.
 
-
 *2. Use Free Mysql to Mssql Conversion.*
 <br />
 <br />1.Install Mysql to MsSQL converter. Download for win86 or win64.
 Fill up the Server Name, Authentication, User name and password. Then press Connect button to check for the connection. If successful, the Mysql Connect button will automatically Activate.
 
-<br />
 <br />2.For MYSQL connection Fill up the host name, User name, Password and Driver. Then press the Connect button. If successful, the Start conversion button will activate and you can now select the source database (Mysql) and destination database (MSSQL).
-<br />
+
 <br />3.Select the distination Database (MSSQL) and the source database (MYSQL).
-<br /> 
+
 <br />4.Press Start Button to begin the migration process. The process will convert the table structure, primary keys, foreign keys , indexes , default values and identities.
 
 Make a donation. Support the homeless developer :)
-
