@@ -36,7 +36,7 @@ The setup of this connector is pretty simple:
 *2. Use Free Mysql to Mssql Conversion.*
 <br />
 <br />1.Install Mysql to MsSQL converter. Download for <a href="https://code.google.com/p/mysql-to-mssql-server-converter/source/browse/trunk/MysqlToMssqlx86.zip">
-Win64 (Right click Save link As..)</a> or <a href="https://code.google.com/p/mysql-to-mssql-server-converter/source/browse/trunk/MysqlToMssqlx64.zip">
+Win86 (Right click Save link As..)</a> or <a href="https://code.google.com/p/mysql-to-mssql-server-converter/source/browse/trunk/MysqlToMssqlx64.zip">
 Win64 (Right click Save link As..)</a>.
 Fill up the Server Name, Authentication, User name and password. Then press Connect button to check for the connection. If successful, the Mysql Connect button will automatically Activate.
 
